@@ -1,8 +1,8 @@
 <?php
-$db_host = '127.0.0.1';
+$db_host = '192.168.31.72';
 $db_name = 'pbook';
-$db_user = 'Nana';
-$db_pass = 'addme';
+$db_user = 'root';
+$db_pass = 'root';
 $db_charset = 'utf8';
 $db_collate = 'utf8_unicode_ci';
 
