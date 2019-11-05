@@ -1,5 +1,5 @@
 <?php
-$db_host = '192.168.31.72';
+$db_host = 'localhost';
 $db_name = 'pbook';
 $db_user = 'root';
 $db_pass = 'root';
